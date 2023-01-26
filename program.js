@@ -1,1 +1,2 @@
-console.log ("js projekat")
+console.log ("HEllo world");
+console.log ("2");
