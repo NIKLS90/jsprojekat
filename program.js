@@ -1,2 +1,2 @@
 console.log ("HEllo world");
-console.log ("2");
+console.log ("u")
